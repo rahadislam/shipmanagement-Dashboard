@@ -1,0 +1,15 @@
+.h_btn{
+ 
+color:#97A4C1;
+ Height:33px;
+ font-size: 12px;
+ font-weight: 600;
+ margin-right: 10px;
+}
+.active{
+    background-color: #2E3A54;
+    color: white;
+}
+.h_btn:hover{
+    background-color: #2E3A54;
+}
