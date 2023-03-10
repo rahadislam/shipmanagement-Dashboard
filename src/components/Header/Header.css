@@ -8,7 +8,7 @@ padding: 10px;
  Height:33px;
  font-size: 12px;
  font-weight: 600;
- margin-right: 2px;
+ margin-right: 7px;
 }
 .active{
     background-color: #2E3A54;
@@ -17,4 +17,12 @@ padding: 10px;
 .h_btn:hover{
     background-color: #2E3A54;
     color: white;
+}
+.g_btn{
+    background: radial-gradient(75.47% 75.47% at 50% 0%, #598BFC 0%, #1A55DB 100%);
+    font-size: 14px;
+    font-weight:600;
+    color:#ffffff;
+    border-radius: 14px;
+    padding: 17px;
 }

@@ -24,7 +24,7 @@ const Header = () => {
       <li><a href='/' className='h_btn'>Ballast Tank</a></li>
       </ul>
     </div>
-    <span class="ml-5 text-white text-sm">SMK LTD.</span>
+    <span class="ml-5 text-white text-xl font-semibold">SMK LTD.</span>
   </div>
   <div class="navbar-center hidden lg:flex">
     <ul class="menu menu-horizontal px-1 text-white">
