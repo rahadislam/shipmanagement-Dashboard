@@ -10,7 +10,7 @@ import './Card.css'
 
 const Card = () => {
     return (
-        <div className='pl-5 grid grid-cols-4 gap-5'>
+        <div className='pl-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5'>
              <div className=' w-60 bg-white p-3 rounded-lg card_bg_img bg-cover' >
                 <div className='flex justify-between items-center'>
                 <img className='bg-[#2C64E4] rounded-full p-3' src={boat} alt="" />
